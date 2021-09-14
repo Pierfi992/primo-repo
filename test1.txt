@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 appena fatto il merge
+=======
+sviluppo1
+
+>>>>>>> sviluppo1
